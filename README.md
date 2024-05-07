@@ -1,6 +1,6 @@
 # Online Food Delivery Case Study
 
-This repository contains a case study on online food delivery implemented in SQL. The study explores various aspects of the online food delivery domain using a relational database model. Below is an overview of the data tables and the scope of analysis covered.
+This repository contains a case study on online food delivery implemented in **SQL server**. The study explores various aspects of the online food delivery domain using a relational database model. Below is an overview of the data tables and the scope of analysis covered.
 
 ### Data Tables
 
